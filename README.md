@@ -7,7 +7,7 @@ This project was completed for the performance coach of an elite youth soccer cl
 ### Application Functionality
 This app gives the user the ability to select the team name to visualize the data for, filter for up to five specific players, and select a date range to be included in the output. The app has 6 tabs: Team Overview, Team Match Information, High Level Player Overview, Win/Loss Distributions, Metrics by Game Outcome, and Data Viewer. Each tab's functionality is outlined below.
 
-**Team Overview:**
+*Team Overview:*
 The team overview tab plots team level data over the season, allowing the user to select a metric to visualize. The plot includes a regression line as well as a line that represents the team average of that metric over the date range specified. The data points are colored by the number of minutes the athlete played in the game to provide context to the range of values shown. This visualization cannot be filtered to the indiviudal player level as it is meant to give a high level overview of the trends present in the data at the team level.
 
 **Team Match Information:**
