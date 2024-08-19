@@ -1,5 +1,5 @@
 
-# App for visualizing performance metrics over the previous season for a soccer team.
+# App for visualizing performance metrics over the previous season for a soccer team
 
 library(shiny)
 library(DT)  # For interactive tables
