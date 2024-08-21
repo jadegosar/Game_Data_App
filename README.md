@@ -11,6 +11,10 @@ This app gives the user the ability to select the team name to visualize the dat
 
 The team overview tab plots team level data over the season, allowing the user to select a metric to visualize. The plot includes a regression line as well as a line that represents the team average of that metric over the date range specified. The data points are colored by the number of minutes the athlete played in the game to provide context to the range of values shown. This visualization cannot be filtered to the indiviudal player level as it is meant to give a high level overview of the trends present in the data at the team level.
 
+<center><img src="/Soccer_App_1.png"/></center>
+
+<center><img src="/Soccer_App_2.png"/></center>
+
 *Team Match Information*
 
 The team match information tab contains a scatterplot that shows the relationship between two selected metrics for an individual game. The user can select a team and any match id that is associated with that team along with what metrics they would like to display on the x and y axis. This tab also shows a summary table for the match selected that displays averages across the team for all metrics in the dataset.
